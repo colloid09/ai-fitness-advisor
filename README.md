@@ -95,3 +95,37 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 ---
+
+## 📁 Project Structure
+```
+├── frontend
+│   ├── components
+│   ├── pages
+│   ├── services
+│   └── utils
+│
+├── backend
+│   ├── routes
+│   ├── models
+│   ├── services
+│   └── main.py
+│
+├── README.md
+└── requirements.txt
+```
+---
+
+##⭐ Acknowledgements
+
+-Open-source libraries and frameworks
+
+-AI tools used for recommendation logic
+
+-Faculty guidance and academic support
+
+---
+
+##👨‍💻 Author
+### Clyde Charles Coelho
+-MCA - St Joseph Engineering College, Mangaluru
+-GitHub: https://github.com/colloid09
