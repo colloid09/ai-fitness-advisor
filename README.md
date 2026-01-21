@@ -11,7 +11,13 @@ An **AI-powered fitness recommendation web application** that generates **person
 This project showcases the practical application of **Artificial Intelligence**, **Full Stack Development**, and **REST APIs** in the health & fitness domain.
 
 ---
+## 📸 Screenshots
 
+<img width="1890" height="886" alt="Screenshot 2025-12-29 102948" src="https://github.com/user-attachments/assets/5ef50d9e-3884-41c7-9875-92b267916ade" />
+<img width="1888" height="857" alt="Screenshot 2026-01-17 212459" src="https://github.com/user-attachments/assets/c41a4155-8146-4c44-8c3a-37dbf12c3f9f" />
+<img width="1902" height="852" alt="Screenshot 2026-01-17 212626" src="https://github.com/user-attachments/assets/7d5493b9-f6b6-4dae-8219-d11a232518ea" />
+
+---
 ## 🚀 Features
 
 - 👤 User Authentication (Register / Login / Forgot Password)
