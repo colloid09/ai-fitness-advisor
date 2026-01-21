@@ -1,0 +1,2 @@
+from backend.services.gemini_service import generate_fitness_advice
+
