@@ -115,7 +115,7 @@ uvicorn main:app --reload
 ```
 ---
 
-##⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 - Open-source libraries and frameworks
 
@@ -125,7 +125,36 @@ uvicorn main:app --reload
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 ### Clyde Charles Coelho
 - MCA, St Joseph Engineering College, Mangaluru
 - GitHub: https://github.com/colloid09
+
+---
+
+## 📜 License
+Educational Use License
+
+Copyright (c) 2026 Clyde Charles Coelho
+
+Permission is hereby granted, free of charge, to use this software solely for
+educational, academic, and learning purposes.
+
+This software may be:
+- Used for college or university projects
+- Studied for learning and research
+- Modified for non-commercial academic purposes
+
+This software may NOT be:
+- Used for commercial purposes
+- Sold or sublicensed
+- Used in paid products or services
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
